@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taqilsarwat
-- 👀 I’m interested in Machine Learning, IoT & Cyber Security
-- 🌱 I’m currently learning Python, C/C++ & other language
+- 👀 I’m interested in Machine Learning, IoT & Webdev
+- 🌱 I’m currently learning JS, Python, C/C++ & other language
 - 💞️ I’m looking to collaborate on anyone
 
 <!---
